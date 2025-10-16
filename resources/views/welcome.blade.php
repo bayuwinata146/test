@@ -9,6 +9,6 @@
     <h1 class="text-3xl font-bold font-red-600">
       Hello world! 
     </h1>
-    <h2>hello world juga</h2>
+    <h2>hello world jugaa</h2>
   </body>
 </html>
